@@ -2,10 +2,9 @@
 
 - 👋 I’m Hela Ben Abdelhafidh
 - 👀 I’m interested in Python Programming and IA
-- 🌱 I’m currently an industrial computer engineering student
-- 💞️ I’m looking to collaborate on Projects
+- 🌱 I’m currently an Industrial Computer Science engineer
+- 😄 I’m looking to collaborate on Projects and to advance the development of AI solutions
 - 📫 Reach me via Linkedin : www.linkedin.com/in/hela-ben-abdelhafidh
-- 😄 Happy to see you here
 
 
 <!---
